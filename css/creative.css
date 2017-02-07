@@ -513,8 +513,8 @@ body {
     height: 100%;
 }
 .imageaccueil {
-  position: relative;
-  width: 60%;
+  position: inherit;
+  width: 60% !important;
 }
 #portfolio {
     background: #222;
