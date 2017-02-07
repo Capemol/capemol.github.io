@@ -513,7 +513,7 @@ body {
     height: 100%;
 }
 .imageaccueil {
-  position: inherit;
+  position: fixed;
 }
 #portfolio {
     background: #222;
